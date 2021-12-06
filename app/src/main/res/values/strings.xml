@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="menu_button">Pokaż ilość sensorów</string>
+    <string name="hide_subtitle">Ukryj ilość sensorów</string>
+    <string name="show_subtitle">Pokaż ilość sensorów</string>
+</resources>
